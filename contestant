@@ -1,0 +1,1 @@
+java -XX:ParallelGCThreads=2 ContestClient $1 $2
